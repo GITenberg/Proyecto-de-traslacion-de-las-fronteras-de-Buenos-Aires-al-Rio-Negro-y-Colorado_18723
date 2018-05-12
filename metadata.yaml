@@ -1,0 +1,32 @@
+_repo: Proyecto-de-traslacion-de-las-fronteras-de-Buenos-Aires-al-Rio-Negro-y-Colorado_18723
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Undiano y Gastelu, Sebastian
+    gutenberg_agent_id: '8206'
+    url: http://www.gutenberg.org/2009/agents/8206
+description: ''
+gutenberg_bookshelf: Argentina
+gutenberg_issued: '2006-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18723'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Argentina -- Boundaries'
+- !lcsh 'Cerro y Zamudio, José Santiago'
+- !lcsh 'Pampas (Argentina)'
+- !lcc 'F2801'
+- !lcsh 'Mountain passes -- Andes'
+- !lcsh 'Colorado River (Mendoza and Neuquén-Buenos Aires, Argentina)'
+- !lcsh 'Argentina -- Discovery and exploration'
+- !lcsh 'Buenos Aires (Argentina : Province) -- Boundaries'
+- !lcsh 'Negro River (Río Negro, Argentina)'
+title: Proyecto de traslacion de las fronteras de Buenos Aires al Rio Negro y Colorado
+url: http://www.gutenberg.org/ebooks/18723
