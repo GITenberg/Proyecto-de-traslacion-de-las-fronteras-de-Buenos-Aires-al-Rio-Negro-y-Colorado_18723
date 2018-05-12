@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8206'
     url: http://www.gutenberg.org/2009/agents/8206
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18723#Proyecto-de-traslacion-de-las-fronteras-de-Buenos-Aires-al-Rio-Negro-y-Colorado
 gutenberg_bookshelf: Argentina
 gutenberg_issued: '2006-07-01'
 gutenberg_type: Text
